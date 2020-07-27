@@ -2,7 +2,8 @@
 
 ### Hi there 👋, I'm Yuil Tripathee.
 
-
+[![](https://img.shields.io/badge/LinkedIn-YuilTripathee-blue)](https://www.linkedin.com/in/YuilTripathee/)
+[![](https://img.shields.io/badge/Gmail-yuiltripathee79@gmail.com-red)](mailto:yuiltripathee79@gmail.com)
 <!--
 **YuilTripathee/YuilTripathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
