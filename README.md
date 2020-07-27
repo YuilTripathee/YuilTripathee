@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### Hi there 👋, I'm Yuil Tripathee.
+
 
 <!--
 **YuilTripathee/YuilTripathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am ...
 
 [![YuilTripathee's github stats](https://github-readme-stats.vercel.app/api?username=YuilTripathee)](https://github.com/anuraghazra/github-readme-stats)
