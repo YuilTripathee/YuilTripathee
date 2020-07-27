@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 I am ...
 
-[![YuilTripathee's github stats](https://github-readme-stats.vercel.app/api?username=YuilTripathee)](https://github.com/YuilTripathee/github-readme-stats)
+![YuilTripathee's github stats](https://github-readme-stats.vercel.app/api?username=YuilTripathee&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact)](https://github.com/YuilTripathee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact&show_icons=true&hide_border=true)
