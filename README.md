@@ -22,4 +22,4 @@ I am ...
 
 [![YuilTripathee's github stats](https://github-readme-stats.vercel.app/api?username=YuilTripathee)](https://github.com/YuilTripathee/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuikTripathee&layout=compact)](https://github.com/YuilTripathee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact)](https://github.com/YuilTripathee/github-readme-stats)
