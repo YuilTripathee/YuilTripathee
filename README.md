@@ -12,7 +12,7 @@
 
 <br />  
 
-I am a developer who is passionate about stuff like robotics and blockchain. Few tech I enjoy working on are Python, Go, C++, JavaScript for now. Recently, I just started tech blogging.
+I am a developer who is passionate about stuff like robotics and blockchain. Few tech I enjoy working on are Python, Go, C++, JavaScript for now. Recently, I just started [tech blogging](https://medium.com/@yuiltripathee).
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Django with Vue.
@@ -41,7 +41,6 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
 </p>
 
 </details>
-
 
 ## Some showcases
 
