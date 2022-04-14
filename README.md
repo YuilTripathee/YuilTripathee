@@ -42,6 +42,8 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
 
 </details>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuilTripathee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Some showcases
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YuilTripathee&repo=automated-web-scraper)
