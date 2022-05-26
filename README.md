@@ -32,15 +32,12 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<details>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
+<p> 😇 <b>My Github Stats</b>: </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=YuilTripathee&show_icons=true&hide_border=true&count_private=true&theme=gotham">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=gotham">
 </p>
 
-</details>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuilTripathee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
