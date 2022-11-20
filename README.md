@@ -39,7 +39,7 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
 </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuilTripathee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuilTripathee&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Some showcases
 
