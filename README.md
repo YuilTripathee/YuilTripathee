@@ -34,8 +34,8 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
 
 <p> 😇 <b>My Github Stats</b>: </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=YuilTripathee&show_icons=true&hide_border=true&count_private=true&theme=gotham">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=gotham">
+  <img src = "https://github-readme-stats.vercel.app/api?username=YuilTripathee&show_icons=true&hide_border=true&count_private=true&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 </p>
 
 
