@@ -15,7 +15,7 @@
 I am a developer who is passionate about stuff like robotics and blockchain. Few tech I enjoy working on are Python, Go, C++, JavaScript for now. Recently, I just started [tech blogging](https://medium.com/@yuiltripathee).
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Django with Vue.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on Go projects.
 - 🤔 I’m looking for help with TypeScript.
 - 💬 Ask me about Web Design, UI/UX.
