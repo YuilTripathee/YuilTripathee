@@ -8,7 +8,7 @@
   <img align="left" alt="Yuil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YuilTripathee.YuilTripathee)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YuilTripathee.YuilTripathee)
 
 <br />  
 
@@ -38,9 +38,7 @@ I am a developer who is passionate about stuff like robotics and blockchain. Few
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YuilTripathee&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 </p>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuilTripathee&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuilTripathee&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Some showcases
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YuilTripathee&repo=automated-web-scraper)
